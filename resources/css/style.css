@@ -445,6 +445,8 @@ footer p {
 	.events .article-small a {
 		text-align: center;
 		margin: 15px auto;
+    padding: 4px 20px;
+    font-size: 1.2rem;
 	}
 
 /*Learning*/
